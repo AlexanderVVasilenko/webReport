@@ -3,5 +3,5 @@ flask~=3.0.0
 f1_racing_reports
 pytest
 flask_restful
-flasgger~=0.9.7.1
 xmltodict~=0.13.0
+peewee~=3.17.0
